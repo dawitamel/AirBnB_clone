@@ -278,4 +278,4 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 * **Dawit Alemu** <dawitamele(https://github.com/dawitamele)>
-* **Nicole Mong'are** <NicoleMong'are(https://github.com/Nicole Mong'are)>
+* **Nicole Mong'are** <NicoleMong'are(https://github.com/Nicole Mongare)>
